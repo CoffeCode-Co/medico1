@@ -1,0 +1,71 @@
+body {
+    margin: 2%;
+    padding: 2%;
+  }
+  
+  header {
+    background-color: #AA2345;
+    background-image: url();
+    background-size: 100%;
+    padding: 1%;
+  }
+  
+  nav {
+    text-align: center;
+  }
+  
+  nav a {
+    font-size: 16px;
+    text-align: center;
+    display: inline-block;
+    padding: 1%;
+    margin: 3%;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -o-border-radius: 10%;
+    border-radius: 10%;
+    text-decoration: none;
+    background-color: #FFFFFF;
+    color: black;
+    opacity: 0.5;
+  }
+  
+  nav a:visited {
+    opacity: 1;
+  }
+  
+  nav a:hover {
+    opacity: 1;
+  }
+  
+  #active {
+    opacity: 1;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+  }
+  
+  #left {
+    background-color: #DDD456;
+    float: left;
+  }
+  img{
+    height: 200px;
+    width: 365px;
+    padding: 3%;
+  }
+  
+  #right {
+    display: block;
+    float: left;
+    
+  }
+  
+  .disease {
+    margin:8%;
+  
+  }
+  
